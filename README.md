@@ -74,3 +74,59 @@ The final step of the project involved designing an executive dashboard in Table
 
 The dashboard was designed to guide users from a high-level overview of business performance to progressively deeper analysis of regional, product, and profitability trends.  
 
+## Key Findings
+
+### Regional Performance
+
+The **West region** generated the highest overall sales and profit, making it the strongest-performing geographic region. In contrast, the **Central region** recorded a negative overall profit margin, indicating that its sales were not translating into sustainable profitability.
+
+![Regional Performance](images/sales_profit_region.png)
+
+### Product Performance
+
+**Technology** was identified as the highest-performing product category. However, analysis at the sub-category level revealed that **Tables, Bookcases, and Supplies** generated losses, highlighting areas of the product portfolio that may require further attention.
+
+![Profit by Sub-Category](images/profit_by_sub-category.png)
+
+### Discount Analysis
+
+Discounting appeared to have a significant influence on profitability within low performing products. 
+Isolating the loss-making sub categories showed more insight, higher discount percentages were consistently associated with lower profits. This suggests that current pricing strategies may be reducing profitability without generating sufficient financial return. 
+
+![Discount vs. Profit](images/discount_analysis.png)
+
+### Time Trends
+
+Sales increased steadily throughout the reporting period. Although profit also increased, it grew at a slower rate than revenue, suggesting that increased sales did not translate proportionally into increased profit.
+
+Profit margins also fluctuated throughout the year.
+Early Q4 showed noticeable decline followed by a recovery towards the end of the year. 
+
+![Sales and Profit Trends](images/sales_profit_over_time.png)
+
+## Recommendations
+
+Based on the findings of this analysis, the following recommendations were identified:
+
+- **Review discounting strategies** for Tables, Bookcases, and Supplies to reduce unnecessary margin erosion. 
+- **Take a deep dive within the Central region** to determine the factors contributing to negative profitability 
+- **Prioritize high-margin product categories**, specifically Technology and monitor profit margin alongside total sales.  
+
+## Project Files
+
+- **Excel Working Dataset** — Prepared dataset used for analysis
+- **Tableau Workbook** — Packaged workbook containing the analysis and dashboard
+- **Business Report** — Detailed report covering the methodology, findings, and recommendations
+
+## Skills Demonstrated
+
+- Data cleaning and preparation
+- Exploratory data analysis
+- Data visualization
+- Tableau dashboard development
+- Business analysis
+- Translating analytical findings into business recommendations
+
+### Project Resources
+
+[View Full Business Report](Superstore_Profitability_Report.pdf)
